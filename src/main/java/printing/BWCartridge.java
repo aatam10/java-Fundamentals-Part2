@@ -11,4 +11,9 @@ public class BWCartridge implements ICartridge {
 		// TODO Auto-generated method stub
 		return "70%";
 	}
+
+	public String printColor() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
